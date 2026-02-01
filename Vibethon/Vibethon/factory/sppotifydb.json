@@ -1,0 +1,9 @@
+{
+	"name": "sppotifydb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69c9d5d9-488d-4d51-b7d5-58b191398882",
+		"tenantId": "a28ba74e-de30-47f7-8384-ec2f9561070f"
+	}
+}
